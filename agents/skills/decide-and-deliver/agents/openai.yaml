@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的决策与交付风格"
+  short_description: "审计输入、反驳盲点，并推动一个可逆且可验证的下一步"
+  default_prompt: "使用 $decide-and-deliver，把上文作为待审材料，并根据我最后的一句话直接给出或执行可验证的下一步。"

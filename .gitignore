@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Agent scratch area: plans, logs, snapshots, decision ledger. Never tracked.
+.agent-work/
+
+# OS
+Thumbs.db
+.DS_Store

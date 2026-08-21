@@ -1,0 +1,10 @@
+---
+description: Load the repository-wide cross-tool agent contract
+alwaysApply: true
+---
+
+# Shared agent contract
+
+Before editing, read and follow `AGENTS.md` and `CONTRIBUTING.md` from the repository root. They are the only authoritative rule and collaboration sources shared by Cursor, Codex, Claude Code, and OpenCode.
+
+Use `.agents/skills/` as the canonical project Skill source. Do not add engineering rules, task state, or copied Skill bodies to this Cursor adapter.

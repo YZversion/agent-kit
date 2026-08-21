@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision Journal"
+  short_description: "Capture decisions, outcomes, and reusable rules"
+  default_prompt: "Use $decision-journal to record this decision with evidence, predictions, invalidation criteria, and a review date."
